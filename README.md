@@ -28,4 +28,6 @@ Telegram: @A7_acc
 
 البرنامج يشتغل على الجوال🔥👋
 
+![insta_info](https://user-images.githubusercontent.com/58238467/122084836-769a1d00-ce02-11eb-8b18-9ce4c499c6eb.png)
+
 @A7_acc
