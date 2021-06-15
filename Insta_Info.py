@@ -9,7 +9,7 @@ from os import system
 # cookie: ig_cb=2; ig_did=3255D07E-AE1F-435D-AE4D-6DD9143A31DD; mid=YCw4nQALAAGi2-XgPn3SB4vbITaz; shbid=7532; shbts=1614372903.1103077; csrftoken=vSzvnZY2dy6lE7WAv4K9RFHINu6FN9dO; ds_user_id=379234200
 def check_username(username):
     datas = 0
-    h = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36','cookie':'ig_cb=2; ig_did=3255D07E-AE1F-435D-AE4D-6DD9143A31DD; mid=YCw4nQALAAGi2-XgPn3SB4vbITaz; shbid=7532; shbts=1614372903.1103077; csrftoken=4pknjFO5a97KUJ04BoSasuUSHCjp9eBw; rur=PRN; ds_user_id=276972397; sessionid=276972397%3AwxnDCAsRi05tns%3A3'}
+    h = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36','cookie': 'mid=YF93jgALAAE3vLXolGU8TUim3FA5; ig_did=3525CF13-8CA7-4886-8028-5FAC28C60E97; datr=U1VgYLyLNUpoQ6_ODYRFQe7n; csrftoken=llONvsDLwC82YAy8nFRJinhKvISAruxN; ds_user_id=276972397; sessionid=276972397%3AgQKkX8ikrFwQi8%3A7; shbid=14342; shbts=1623538759.6567142; rur=LDC'}
     while True:
         try:
             i = requests.get(f'https://www.instagram.com/{username}/',headers=h,timeout=5)
