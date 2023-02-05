@@ -1,5 +1,5 @@
 # insta_info
-Scrape a profile information on Instagram
+Scrapes a profile information on Instagram
 
 برنامج Insta Info v1
 
@@ -30,7 +30,6 @@ Telegram: @A7_acc
 
 <h2> 🛑This program is currently not working.. another version is under maintance. Thanks For Understanding🛑</h2>
 
-
-![insta_info](https://user-images.githubusercontent.com/58238467/122084836-769a1d00-ce02-11eb-8b18-9ce4c499c6eb.png)
+![2023-02-05 16_14_04-Window](https://user-images.githubusercontent.com/58238467/216827844-aa094fa3-624a-4691-a0a4-21fad4be9a37.png)
 
 @A7_acc
