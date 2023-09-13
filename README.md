@@ -1,12 +1,6 @@
 # insta_info
 This program scraps/extracts public account information on Instagram
 
-Copyright:
-Instagram: @a7.acc
-Telegram: @A7_acc
-
-Grabs an Instragram account public data
-
 The information it extracts:
 - UserID
 - Name
