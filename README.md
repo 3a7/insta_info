@@ -1,4 +1,4 @@
-# insta_info
+# Insta Info
 #### This program gives you public information about a specific Instagram account just by typing the account's username
 #### Try out the telegram bot version! --> [@insta_user_info_bot](https://t.me/insta_user_info_bot)
 #### Latest version: v2.2 at 10/2024
