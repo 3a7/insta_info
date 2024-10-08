@@ -32,7 +32,7 @@
 
 ![grafik](https://github.com/3a7/insta_info/assets/58238467/658eaed6-9f6b-4d8a-b0bd-e0195b0fa603)
 
-<h3> v2.2 (current) </h3>
+<h3> v2.2 (current) - 10/2024 </h3>
 
 ![image](https://github.com/user-attachments/assets/7117e925-35cb-407c-9d32-bf343b8230d9)
 
