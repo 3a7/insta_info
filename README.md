@@ -36,5 +36,8 @@
 
 ![image](https://github.com/user-attachments/assets/7117e925-35cb-407c-9d32-bf343b8230d9)
 
-<h3> Telegram Bot [@insta_user_info_bot](https://t.me/insta_user_info_bot) </h3>
+<h3> Telegram Bot </h3>
+
 ![image](https://github.com/user-attachments/assets/e3d391e0-fec2-4cae-99bc-dcd12ae610ca)
+
+[@insta_user_info_bot](https://t.me/insta_user_info_bot)
